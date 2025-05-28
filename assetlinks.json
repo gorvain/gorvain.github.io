@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.orange.phone",
+      "sha256_cert_fingerprints":
+        ["B6:7A:FF:CD:A8:9E:31:93:B1:59:50:36:D7:C6:CD:BE:22:BE:5C:A2:4C:9F:6C:F9:3F:C6:B4:8F:91:D7:31:0D", "89:17:9D:D6:74:1F:7B:08:2C:CC:6D:D9:52:59:76:6A:E4:EF:04:02:CC:9D:F6:18:A9:2B:7F:39:3A:E1:33:09", "B6:7A:FF:CD:A8:9E:31:93:B1:59:50:36:D7:C6:CD:BE:22:BE:5C:A2:4C:9F:6C:F9:3F:C6:B4:8F:91:D7:31:0D", "89:17:9D:D6:74:1F:7B:08:2C:CC:6D:D9:52:59:76:6A:E4:EF:04:02:CC:9D:F6:18:A9:2B:7F:39:3A:E1:33:09"]
+    }
+  }
+]
